@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //这是初始化创建
     // Do any additional setup after loading the view, typically from a nib.
 }
 
